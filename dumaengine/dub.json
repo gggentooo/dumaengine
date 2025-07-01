@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"gggentooo"
+	],
+	"copyright": "Copyright © 2025, gggentooo",
+	"description": "UmaEngine in D",
+	"license": "Apache-2.0",
+	"name": "dumaengine"
+}
